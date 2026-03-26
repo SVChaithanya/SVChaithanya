@@ -37,7 +37,7 @@ All my projects are deployed on Render with real latency numbers, real auth flow
 
 ## Currently
 
-- 🎓 Final year B.Tech CSE — graduating 2026
+- 🎓 B.Tech CSE — graduating 2026
 - 🔭 Building and deploying backend APIs
 - 📫 surya334r@gmail.com | +91 89859 40803
 
