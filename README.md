@@ -13,6 +13,7 @@ All my projects are deployed on Render with real latency numbers, real auth flow
 | Project | Stack | Highlight |
 |---------|-------|-----------|
 | [Credit Risk API](https://github.com/SVChaithanya/Credit-Risk-Prediction-api) | FastAPI · LightGBM · PostgreSQL | Latency: 380ms → 45ms after startup optimization |
+| [Credit Risk Fullstack](https://github.com/SVChaithanya/credit_risk_prediction_fullstack) | FastAPI · LightGBM · PostgreSQL · HTML/CSS/JS | Full UI — risk level, EMI, approval decision |
 | [Fraud Detection API](https://github.com/SVChaithanya/Fund-Fraud-Detection-API) | FastAPI · XGBoost · JWT | Idempotent via SHA-256 hash + DB UNIQUE constraint |
 | [Task Management API](https://github.com/SVChaithanya/task-management-api) | FastAPI · PostgreSQL · RBAC | 25 pytest tests, CI via GitHub Actions |
 | [Sentiment API](https://github.com/SVChaithanya) | FastAPI · Scikit-learn · asyncio | <30ms avg inference latency |
